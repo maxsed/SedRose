@@ -1,7 +1,7 @@
 # SedRose
 Plot equal-area Rose diagrams of palaeocurrent indicators in sedimentology and stratigraphy. Plot different types of indicators (e.g. ripples, flutes, imbrication) on the same graph, stacked or overlain. Input as a single spreadsheet. 
 
-Suggestions and ideas more then welcome!
+Suggestions and ideas more than welcome!
 
 On the importance of equal-area rose diagrams for accurate representation of sedimentological data:
 "The vast majority of rose diagrams that appear in the sedimentological literature are constructed incorrectly, with the use of a linear frequency scale. This leads to gross distortions of the shape of the rose. Correct construction of a rose diagram requires non-linear frequency scale to be used. The correct lengths (radii) of the diagram's sectors can be derived numerically, or determined more rapidly by plotting the frequencies directly on an appropriate net."
